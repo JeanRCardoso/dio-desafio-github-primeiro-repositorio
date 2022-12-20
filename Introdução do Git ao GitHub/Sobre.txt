@@ -14,3 +14,11 @@ Instalei o Git 2.39 que gerou um conflito com o GitHub.
 No momento de "empurrar" os arquivos para o GitHub aparecia um erro de Help/UI.
 Desinstalei o Git... coloquei uma nova velha versão do Git 2.38. Criei novas chaves SSH no GitHub e foi assim minha experiência aqui.
 
+O Uso do Git até o momento parece simples.
+
+Para isso é usado o Git Bash.
+Se estiver no windows... é só ir na pasta do projeto, cliclar com o botão direito do mouse... e depois em Git Bash.
+Vai abrir a tela do terminal git, que é parecida com atela de CMD do windows. prompt de comando.
+
+
+
