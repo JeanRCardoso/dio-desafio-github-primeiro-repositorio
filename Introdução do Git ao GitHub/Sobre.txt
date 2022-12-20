@@ -20,5 +20,18 @@ Para isso é usado o Git Bash.
 Se estiver no windows... é só ir na pasta do projeto, cliclar com o botão direito do mouse... e depois em Git Bash.
 Vai abrir a tela do terminal git, que é parecida com atela de CMD do windows. prompt de comando.
 
+Alguns comando básicos
 
+git status
+- usado para ver o status do seu projeto ( o que será preciso fazer para enviar ou controlar a versão do seu projeto
+
+git add .
+- use comando adiciona todos os arquivos com alterções feitas. Depois use o git status para verificar.
+
+git -commit -m "texto para justicar, indicar as alterações do projeto"
+ - Importante aqui para o controle do versionamento. É aqui que você indica o que realmente esta acontecendo com seu projeto. não so para versões, 
+   mas também para entender o projeto, uma vez que, o github vai guardando todas essas atualizações.
+
+git push origin main
+- este comando é o que realmente efetua o envio do do projeto para o GitHub.
 
