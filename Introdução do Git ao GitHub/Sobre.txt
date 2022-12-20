@@ -1,3 +1,16 @@
-Curso sobre introdução do gti ao GitHub
+Curso sobre introdução do Git ao GitHub
 
 Primeiros estudos....
+
+Este é meu primeiro contato com a ferramenta Git, e também meu primeiro repositorio no GitHub.
+
+Já tomo como desafio o próprio curso.
+
+Como acessei só agora, o curso mostrou como é defato o uso do Git/GitHub. Porém do inicio deste curso até o momento atual, muitas
+situações mudaram referente ao GitHub.
+
+Instalei o Git 2.39 que gerou um conflito com o GitHub.
+
+No momento de "empurrar" os arquivos para o GitHub aparecia um erro de Help/UI.
+Desinstalei o Git... coloquei uma nova velha versão do Git 2.38. Criei novas chaves SSH no GitHub e foi assim minha experiência aqui.
+
